@@ -9,6 +9,6 @@ Console.Write("введите число");
 int a = Convert.ToInt32(Console.ReadLine());
 
 if(a%2 == 0)Console.Write("число делится на 2 без остатка");
-if(a%2== 1)Console.Write("число не делится 2 без остатка");
+if(a%2 == 1)Console.Write("число не делится на 2 без остатка");
 
     
